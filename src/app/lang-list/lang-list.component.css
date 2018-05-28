@@ -1,0 +1,7 @@
+.langs {
+    list-style-type: none;
+    padding: 0;
+}
+.langs li {
+    margin: 5px 0;
+}
